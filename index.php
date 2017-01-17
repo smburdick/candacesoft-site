@@ -12,17 +12,17 @@
     <title>Candace Software</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://candacesoft.com/wp-content/themes/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://candacesoft.com/wp-content/themes/bootstrap/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
 
     <!-- Theme CSS -->
-    <link href="css/candace-page.css" rel="stylesheet">
+    <link href="http://candacesoft.com/wp-content/themes/bootstrap/css/candace-page.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -231,7 +231,7 @@
             </div>
             <br>
             <p class="text-center">
-              Candace Software is a small technology startup working towards improving the coffee production and delivery markets with
+              Candace Software is a small technology startup working towards, among other things, improving the coffee production and delivery markets with
               state-of-the-art data collection and visualization systems that can be delivered to fit individual customers'
               needs.
             <p>
@@ -428,6 +428,10 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
+                  <p1 style="text-color:white;">
+                    If you are interested in doing business with us, please contact us at <a href="mailto:info@candacesoft.com">info@candacesoft.com</a>.
+                  </p1>
+                  <!--
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row">
                             <div class="col-md-6">
@@ -457,6 +461,7 @@
                             </div>
                         </div>
                     </form>
+                  -->
                 </div>
             </div>
         </div>
@@ -673,20 +678,20 @@
     </div>
 
     <!-- jQuery -->
-    <script src="js/jquery.min.js"></script>
+    <script src="http://candacesoft.com/wp-content/themes/bootstrap/js/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="http://candacesoft.com/wp-content/themes/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
     <!-- Contact Form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
+    <script src="http://candacesoft.com/wp-content/themes/bootstrap/js/jqBootstrapValidation.js"></script>
+    <script src="http://candacesoft.com/wp-content/themes/bootstrap/js/contact_me.js"></script>
 
     <!-- Theme JavaScript -->
-    <script src="js/agency.min.js"></script>
+    <script src="http://candacesoft.com/wp-content/themes/bootstrap/js/agency.min.js"></script>
 
 </body>
 
